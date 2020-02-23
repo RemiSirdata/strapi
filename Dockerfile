@@ -2,4 +2,4 @@ FROM strapi/strapi
 
 EXPOSE 1337
 
-CMD ["strapi", "production"]
+CMD ["strapi", "start"]
